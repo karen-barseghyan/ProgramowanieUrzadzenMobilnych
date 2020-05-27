@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "Blank Template (TypeScript)",
+    "slug": "todoapp",
+    "privacy": "public",
+    "sdkVersion": "36.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./src/assets/Splash.png",
+    "splash": {
+      "image": "./src/assets/Splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#AfAfAf"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "./src/assets/"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
